@@ -1,0 +1,51 @@
+Student_ID,Age,Gender,Department,Study_Hours,Attendance_Percentage,Assignment_Score,Midterm_Score,Final_Score,Previous_GPA,Internet_Access,Extracurricular,Part_Time_Job,Sleep_Hours,Stress_Level,Parent_Education,Family_Income
+ST001,19,Female,Computer Science,6.5,92,88,84,91,3.7,Yes,Yes,No,7.5,Low,Graduate,High
+ST002,20,Male,Mechanical,3.2,76,72,68,70,3.0,Yes,No,Yes,6.0,Medium,High School,Medium
+ST003,19,Female,Electronics,5.8,89,85,81,87,3.5,Yes,Yes,No,7.0,Low,Graduate,High
+ST004,21,Male,Civil,2.5,68,64,59,61,2.7,No,No,Yes,5.5,High,High School,Low
+ST005,20,Female,Computer Science,7.2,96,94,91,95,3.9,Yes,Yes,No,8.0,Low,Postgraduate,High
+ST006,19,Male,Information Technology,4.5,84,79,75,78,3.2,Yes,Yes,No,6.8,Medium,Graduate,Medium
+ST007,22,Female,Civil,3.8,79,76,71,73,3.0,Yes,No,Yes,6.2,Medium,High School,Low
+ST008,20,Male,Mechanical,5.1,87,82,79,84,3.4,Yes,Yes,No,7.2,Low,Graduate,Medium
+ST009,19,Female,Electronics,6.0,91,89,86,90,3.6,Yes,Yes,No,7.5,Low,Graduate,High
+ST010,21,Male,Computer Science,2.8,72,68,64,66,2.8,Yes,No,Yes,5.8,High,High School,Medium
+ST011,20,Female,Information Technology,5.5,88,84,80,86,3.5,Yes,Yes,No,7.0,Low,Graduate,High
+ST012,19,Male,Civil,4.0,81,75,72,76,3.1,Yes,No,No,6.5,Medium,Graduate,Medium
+ST013,22,Female,Mechanical,3.5,74,70,67,69,2.9,No,Yes,Yes,6.0,High,High School,Low
+ST014,20,Male,Electronics,6.3,93,90,87,92,3.8,Yes,Yes,No,7.8,Low,Postgraduate,High
+ST015,19,Female,Computer Science,5.0,86,83,78,82,3.4,Yes,No,No,7.0,Medium,Graduate,Medium
+ST016,21,Male,Information Technology,3.0,70,65,61,64,2.7,Yes,No,Yes,5.5,High,High School,Low
+ST017,20,Female,Civil,6.8,94,91,88,93,3.8,Yes,Yes,No,8.0,Low,Graduate,High
+ST018,19,Male,Mechanical,4.2,82,78,74,77,3.1,Yes,Yes,No,6.5,Medium,Graduate,Medium
+ST019,22,Female,Electronics,2.9,69,63,60,62,2.6,No,No,Yes,5.2,High,High School,Low
+ST020,20,Male,Computer Science,7.5,97,96,93,97,4.0,Yes,Yes,No,8.2,Low,Postgraduate,High
+ST021,19,Female,Information Technology,5.7,90,86,83,88,3.6,Yes,Yes,No,7.4,Low,Graduate,High
+ST022,21,Male,Civil,3.4,75,71,67,70,2.9,Yes,No,Yes,6.0,Medium,High School,Medium
+ST023,20,Female,Mechanical,4.9,85,80,77,81,3.3,Yes,Yes,No,6.8,Medium,Graduate,Medium
+ST024,19,Male,Electronics,6.1,92,88,85,89,3.7,Yes,Yes,No,7.5,Low,Graduate,High
+ST025,21,Female,Computer Science,3.6,78,73,69,72,3.0,No,No,Yes,6.0,High,High School,Low
+ST026,20,Male,Information Technology,5.4,89,85,81,86,3.5,Yes,Yes,No,7.1,Low,Graduate,High
+ST027,19,Female,Civil,4.7,83,79,74,78,3.2,Yes,No,No,6.7,Medium,Graduate,Medium
+ST028,22,Male,Mechanical,2.7,67,61,58,60,2.5,No,No,Yes,5.0,High,High School,Low
+ST029,20,Female,Electronics,6.6,95,92,89,94,3.9,Yes,Yes,No,8.0,Low,Postgraduate,High
+ST030,19,Male,Computer Science,4.3,85,81,77,80,3.3,Yes,Yes,No,6.9,Medium,Graduate,Medium
+ST031,21,Female,Information Technology,5.9,91,87,84,89,3.7,Yes,Yes,No,7.6,Low,Graduate,High
+ST032,20,Male,Civil,3.1,73,68,64,67,2.8,Yes,No,Yes,5.7,High,High School,Low
+ST033,19,Female,Mechanical,4.8,86,82,78,83,3.4,Yes,Yes,No,7.0,Medium,Graduate,Medium
+ST034,22,Male,Electronics,5.6,88,84,80,85,3.5,Yes,No,No,6.8,Medium,Graduate,High
+ST035,20,Female,Computer Science,7.0,96,93,90,95,3.9,Yes,Yes,No,8.1,Low,Postgraduate,High
+ST036,19,Male,Information Technology,3.7,79,74,70,73,3.0,Yes,No,Yes,6.2,Medium,High School,Medium
+ST037,21,Female,Civil,5.2,87,83,79,84,3.4,Yes,Yes,No,7.0,Low,Graduate,Medium
+ST038,20,Male,Mechanical,4.1,80,76,72,75,3.1,Yes,No,No,6.5,Medium,Graduate,Medium
+ST039,19,Female,Electronics,6.4,93,90,86,91,3.8,Yes,Yes,No,7.7,Low,Graduate,High
+ST040,22,Male,Computer Science,2.4,65,59,55,58,2.4,No,No,Yes,5.0,High,High School,Low
+ST041,20,Female,Information Technology,5.8,90,87,83,88,3.6,Yes,Yes,No,7.5,Low,Graduate,High
+ST042,19,Male,Civil,4.4,82,77,73,76,3.1,Yes,No,No,6.4,Medium,Graduate,Medium
+ST043,21,Female,Mechanical,3.9,77,72,68,71,2.9,No,Yes,Yes,6.0,High,High School,Low
+ST044,20,Male,Electronics,6.7,94,91,88,93,3.8,Yes,Yes,No,7.9,Low,Postgraduate,High
+ST045,19,Female,Computer Science,5.3,89,85,81,86,3.5,Yes,Yes,No,7.2,Low,Graduate,High
+ST046,22,Male,Information Technology,3.3,71,66,62,65,2.7,Yes,No,Yes,5.6,High,High School,Medium
+ST047,20,Female,Civil,6.2,92,88,85,90,3.7,Yes,Yes,No,7.8,Low,Graduate,High
+ST048,19,Male,Mechanical,4.6,84,80,76,79,3.3,Yes,No,No,6.7,Medium,Graduate,Medium
+ST049,21,Female,Electronics,5.5,87,83,80,85,3.4,Yes,Yes,No,7.0,Medium,Graduate,High
+ST050,20,Male,Computer Science,7.8,98,97,94,98,4.0,Yes,Yes,No,8.3,Low,Postgraduate,High
